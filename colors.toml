@@ -1,0 +1,32 @@
+# Knight Rider — black lacquer, scanner red, dashboard amber
+mode = "dark"
+
+accent = "#ff1a1a"
+selection = "#3d0a0a"
+muted = "#4a4a4a"
+
+background = "#0a0a0a"
+dark_background = "#050505"
+darker_background = "#000000"
+lighter_background = "#1a1a1a"
+
+foreground = "#d6d6d6"
+dark_foreground = "#6e6e6e"
+light_foreground = "#b0b0b0"
+bright_foreground = "#f2f2f2"
+
+red = "#ff1a1a"
+yellow = "#ffb000"
+orange = "#ff6a00"
+green = "#3dff6e"
+cyan = "#5fd7ff"
+blue = "#3a7bff"
+magenta = "#ff4d6d"
+brown = "#6b2a1a"
+
+bright_red = "#ff5555"
+bright_yellow = "#ffcc4d"
+bright_green = "#7dff9e"
+bright_cyan = "#9ae6ff"
+bright_blue = "#6e9eff"
+bright_magenta = "#ff7a93"
